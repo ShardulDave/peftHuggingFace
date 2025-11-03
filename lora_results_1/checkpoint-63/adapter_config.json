@@ -29,9 +29,9 @@
   "revision": null,
   "target_modules": [
     "output_lin",
-    "v_lin",
     "q_lin",
-    "k_lin"
+    "k_lin",
+    "v_lin"
   ],
   "target_parameters": null,
   "task_type": "SEQ_CLS",
