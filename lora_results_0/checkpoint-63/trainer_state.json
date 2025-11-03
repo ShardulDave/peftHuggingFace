@@ -11,12 +11,12 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.622,
-      "eval_f1": 0.36363636363636365,
-      "eval_loss": 0.672579824924469,
-      "eval_runtime": 9.033,
-      "eval_samples_per_second": 55.352,
-      "eval_steps_per_second": 3.543,
+      "eval_accuracy": 0.676,
+      "eval_f1": 0.5397727272727273,
+      "eval_loss": 0.6703202128410339,
+      "eval_runtime": 10.1066,
+      "eval_samples_per_second": 49.473,
+      "eval_steps_per_second": 3.166,
       "step": 63
     }
   ],
